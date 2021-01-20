@@ -1,0 +1,7 @@
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\bin\Debug\AbstractClassSmajli2.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\bin\Debug\AbstractClassSmajli2.pdb
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\obj\x86\Debug\AbstractClassSmajli2.Form1.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\obj\x86\Debug\AbstractClassSmajli2.Properties.Resources.resources
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\obj\x86\Debug\AbstractClassSmajli2.csproj.GenerateResource.Cache
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\obj\x86\Debug\AbstractClassSmajli2.exe
+C:\Users\aleks\AppData\Local\Temporary Projects\AbstractClassSmajli2\obj\x86\Debug\AbstractClassSmajli2.pdb
